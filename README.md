@@ -1,12 +1,12 @@
-### Olá! Eu sou o Amauri Araujo 👋
+### Hi! I'm Amauri Araujo 👋
 
- 💻 Front End Developer | 🌱 Fullstack developer at training in Kenzie Academy Brasil<br>
-
-
+ 💻 Front End Developer | 🚀🚀🚀 Fullstack developer at training in Kenzie Academy Brasil<br>
 
 
 
- ![fritzisabelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmauriAraujojr&count_private=true&show_icons=true&theme=radical&border_color=D93A7C)
+
+
+ ![fritzisabelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmauriAraujojr&count_private=true&show_icons=true&theme=radical&border_color=D93A7)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmauriAraujojr&theme=radical&border_color=D93A7C&layout=compact)](https://github.com/fritzisabelle/github-readme-stats)
 
 <div style="display: inline_block"><br>
@@ -21,7 +21,6 @@
  
 <div> <br>
   <a href="https://www.instagram.com/amaurijr35/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:junioramauri985@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/amauri-ara%C3%BAjo-8728b3172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
