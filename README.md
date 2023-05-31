@@ -1,13 +1,13 @@
 ### Hi! I'm Amauri Araujo 👋
 
  💻 Front End Developer | 🚀🚀🚀 Fullstack developer at training in Kenzie Academy Brasil<br>
-
+=AmauriAraujojr&theme
 
 
 
 
  ![fritzisabelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmauriAraujojr&count_private=true&show_icons=true&theme=radical&border_color=D93A70)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmauriAraujojr&theme=radical&border_color=D93A7C&layout=compact)](https://github.com/fritzisabelle/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radical&border_color=D93A7C&layout=compact)](https://github.com/fritzisabelle/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Amauri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
