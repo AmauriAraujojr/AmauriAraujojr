@@ -3,7 +3,7 @@
  💻 Front End Developer | 🚀🚀🚀 Fullstack developer at training in Kenzie Academy Brasil<br>
 
 
-[![Amauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmauriAraujojr&count_private=true&show_icons=true)](https://github.com/AmauriAraujojr/github-readme-stats)
+[![Amauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmauriAraujojr&count_private=true&show_icons=true&theme=dracula)](https://github.com/AmauriAraujojr/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmauriAraujojr&theme=dracula&border_color=D93A7C&layout=compact)](https://github.com/AmauriAraujojr/github-readme-stats)
 
