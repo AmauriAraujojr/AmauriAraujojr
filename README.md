@@ -5,7 +5,7 @@
 
 [![Amauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmauriAraujojr&count_private=true&show_icons=true&theme=dracula)](https://github.com/AmauriAraujojr/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmauriAraujojr&theme=dracula)](https://github.com/AmauriAraujojr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmauriAraujojr&theme=dracula&show_icons=true)](https://github.com/AmauriAraujojr/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
