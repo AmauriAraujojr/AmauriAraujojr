@@ -6,7 +6,7 @@
 
 
 
- ![AmauriAraujojr GitHub stats](https://github-readme-stats.vercel.app/api?username=AmauriAraujojr&count_private=true&show_icons=true&theme=radical&border_color=D93A70)
+ ![AmauriAraujojr GitHub stats]
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmauriAraujojr&theme=radical&border_color=D93A7C&layout=compact)](https://github.com/fritzisabelle/github-readme-stats)
 
 <div style="display: inline_block"><br>
