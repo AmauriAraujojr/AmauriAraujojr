@@ -6,8 +6,10 @@
 
 
 
-[![Amauri J's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmauriAraujojr)](https://github.com/AmauriAraujojr/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmauriAraujojr&theme=radical&border_color=D93A7C&layout=compact)](https://github.com/fritzisabelle/github-readme-stats)
+[![Amauri J's GitHub stats](https://github.com/AmauriAraujojr&count_private=true&show_icons=true&theme=dracula/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmauriAraujojr&theme=dracula&border_color=D93A7C&layout=compact)](https://github.com/github-readme-stats)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Amauri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
