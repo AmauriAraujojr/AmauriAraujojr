@@ -28,6 +28,9 @@
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+
+![Postgree](https://img.shields.io/badge/React-000?style=for-the-badge&logo=postgree)
+
  
 ## Contact
 
