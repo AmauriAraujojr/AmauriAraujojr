@@ -29,7 +29,7 @@
 
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 
-![Postgree](https://img.shields.io/badge/React-000?style=for-the-badge&logo=postgree)
+![Postgree](https://img.shields.io/badge/Postgree-000?style=for-the-badge&logo=postgree)
 
  
 ## Contact
