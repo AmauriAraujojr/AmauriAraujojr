@@ -34,6 +34,20 @@ I'm a passionate Full Stack Developer always eager to tackle new challenges and 
 
 </div>
 
+## My Projects
+
+- **[Moto Link](#)** - Uma aplicação web que visa facilitar a comunicação entre empresas de entrega e motoboys, incentivando parcerias de longa data.
+- **[Kenzie Hub](#)** - Uma plataforma para alunos onde eles podem listar, deletar e atualizar as tecnologias que dominam.
+- **[Hamburgueria](#)** - Uma hamburgueria online com um menu onde os usuários podem filtrar produtos por nome e categoria, adicionando-os ao carrinho.
+- **[NuKenzie](#)** - Uma pequena aplicação de controle financeiro para cadastro de receitas e despesas.
+- **[CashFlow Master](#)** - Ferramenta poderosa para otimizar e controlar o fluxo de caixa de seu negócio.
+
+
+
+## Agradecimentos
+
+- Um enorme agradecimento à [Kenzie Academy Brasil](https://kenzie.com.br/) pela oportunidade e pela excelente formação em desenvolvimento web.
+
 ## Contact Me
 
 <div align="center">
