@@ -40,6 +40,12 @@ I'm a passionate Full Stack Developer always eager to tackle new challenges and 
   <a href="https://www.linkedin.com/in/amauriaraujojr/">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8" alt="LinkedIn"/>
   </a>
+  <a href="https://api.whatsapp.com/send?phone=5535997392790&text=Hello%20Amauri,%20I%20found%20your%20GitHub%20profile%20and%20I'm%20interested%20in%20connecting%20with%20you.">
+    <img src="https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/>
+  </a>
+  <a href="mailto:amauriaraujojr@yahoo.com.br">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+  </a>
 </div>
 
 ## Career Transition
