@@ -56,4 +56,4 @@ I'm a passionate Full Stack Developer always eager to tackle new challenges and 
 🌱 I'm currently transitioning my career and seeking opportunities as a Junior Back End Developer or Junior Front End React Developer, where I can apply my technical skills and contribute to challenging projects in a collaborative and innovative environment.
 
 👀 Thank you for stopping by! If you liked what you saw, feel free to reach out to me or explore my projects. I'm always open to new opportunities and exciting collaborations. Let's build something amazing together! 😊🚀
-]([url](url))](url)](url)
+
