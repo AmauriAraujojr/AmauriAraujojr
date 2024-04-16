@@ -4,7 +4,7 @@ I'm a passionate Full Stack Developer always eager to tackle new challenges and 
 
 💻 Full Stack Developer | 🚀🚀🚀 
 
-<div align="center" style="display:flex; align-itens:center; justify-content:space-between">
+<div align="center" style="display:flex; align-itens:center; justify-content:space-between;">
   <div style="display: flex; justify-content: space-between;  flex-direction:column; align-itens: start;">
     <img src="https://github-readme-stats.vercel.app/api?username=AmauriAraujojr&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats"/>
     <a href="https://git.io/streak-stats">
