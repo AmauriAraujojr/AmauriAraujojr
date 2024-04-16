@@ -1,23 +1,20 @@
-Olá! 👋 Sou Amauri Araujo, um Desenvolvedor Full Stack apaixonado por tecnologia e sempre em busca de desafios que me permitam aprender e crescer profissionalmente.
+# Hi there! 👋 I'm Amauri Araujo
+
+I'm a passionate Full Stack Developer always eager to tackle new challenges and grow professionally.
 
 💻 Full Stack Developer | 🚀🚀🚀 
-<div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmauriAraujojr&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats"/>
-</div>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AmauriAraujojr&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Langs"/>
+  <div style="display: flex; justify-content: space-around;">
+    <img src="https://github-readme-stats.vercel.app/api?username=AmauriAraujojr&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AmauriAraujojr&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Langs"/>
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com/?user=AmauriAraujojr&theme=bear&background=000&border=30A3DC&dates=FFF" alt="GitHub Streak"/>
+    </a>
+  </div>
 </div>
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=AmauriAraujojr&theme=bear&background=000&border=30A3DC&dates=FFF" alt="GitHub Streak"/>
-  </a>
-</div>
-</div>
-
-## Technologias que domino
+## Technologies I Work With
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" alt="HTML5"/>
@@ -28,7 +25,7 @@ Olá! 👋 Sou Amauri Araujo, um Desenvolvedor Full Stack apaixonado por tecnolo
   <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" alt="React"/>
 </div>
 
-## Contato
+## Contact Me
 
 <div align="center">
   <a href="https://www.instagram.com/amaurijr35/">
@@ -39,11 +36,8 @@ Olá! 👋 Sou Amauri Araujo, um Desenvolvedor Full Stack apaixonado por tecnolo
   </a>
 </div>
 
-🌱 
-Estou em transição de carreira e busco oportunidades como Desenvolvedor Back End Júnior ou Desenvolvedor Front End React Júnior, onde posso aplicar minhas habilidades técnicas e contribuir para projetos desafiadores em um ambiente colaborativo e inovador.
+## Career Transition
 
-👀 Obrigado por Visitar!
-Se você gostou do que viu, sinta-se à vontade para me contatar ou explorar meus projetos. Estou sempre aberto a novas oportunidades e colaborações emocionantes. Vamos fazer algo incrível juntos! 😊🚀
+🌱 I'm currently transitioning my career and seeking opportunities as a Junior Back End Developer or Junior Front End React Developer, where I can apply my technical skills and contribute to challenging projects in a collaborative and innovative environment.
 
-
-
+👀 Thank you for stopping by! If you liked what you saw, feel free to reach out to me or explore my projects. I'm always open to new opportunities and exciting collaborations. Let's build something amazing together! 😊🚀
