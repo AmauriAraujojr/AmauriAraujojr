@@ -23,6 +23,12 @@ I'm a passionate Full Stack Developer always eager to tackle new challenges and 
   <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" alt="Python"/>
   <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" alt="React"/>
+  <img src="https://img.shields.io/badge/Styled_Components-000?style=for-the-badge&logo=styled-components" alt="Styled Components"/>
+  <img src="https://img.shields.io/badge/Context_API-000?style=for-the-badge&logo=react" alt="Context API"/>
+  <img src="https://img.shields.io/badge/Axios-000?style=for-the-badge&logo=axios" alt="Axios"/>
+  <img src="https://img.shields.io/badge/Django_Rest_Framework-000?style=for-the-badge&logo=django" alt="Django Rest Framework"/>
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js" alt="Next.js"/>
 </div>
 
 ## Contact Me
