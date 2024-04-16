@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Amauri Araujo
+[[[# Hi there! 👋 I'm Amauri Araujo
 
 I'm a passionate Full Stack Developer always eager to tackle new challenges and grow professionally.
 
@@ -29,6 +29,9 @@ I'm a passionate Full Stack Developer always eager to tackle new challenges and 
   <img src="https://img.shields.io/badge/Django_Rest_Framework-000?style=for-the-badge&logo=django" alt="Django Rest Framework"/>
   <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" alt="PostgreSQL"/>
+
 </div>
 
 ## Contact Me
@@ -53,3 +56,4 @@ I'm a passionate Full Stack Developer always eager to tackle new challenges and 
 🌱 I'm currently transitioning my career and seeking opportunities as a Junior Back End Developer or Junior Front End React Developer, where I can apply my technical skills and contribute to challenging projects in a collaborative and innovative environment.
 
 👀 Thank you for stopping by! If you liked what you saw, feel free to reach out to me or explore my projects. I'm always open to new opportunities and exciting collaborations. Let's build something amazing together! 😊🚀
+]([url](url))](url)](url)
