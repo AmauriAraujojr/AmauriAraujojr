@@ -1,7 +1,7 @@
 Olá! 👋 Sou Amauri Araujo, um Desenvolvedor Full Stack apaixonado por tecnologia e sempre em busca de desafios que me permitam aprender e crescer profissionalmente.
 
 💻 Full Stack Developer | 🚀🚀🚀 
-
+<div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmauriAraujojr&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats"/>
 </div>
@@ -14,6 +14,7 @@ Olá! 👋 Sou Amauri Araujo, um Desenvolvedor Full Stack apaixonado por tecnolo
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=AmauriAraujojr&theme=bear&background=000&border=30A3DC&dates=FFF" alt="GitHub Streak"/>
   </a>
+</div>
 </div>
 
 ## Technologias que domino
@@ -38,7 +39,7 @@ Olá! 👋 Sou Amauri Araujo, um Desenvolvedor Full Stack apaixonado por tecnolo
   </a>
 </div>
 
-🌱 Objetivo Profissional
+🌱 
 Estou em transição de carreira e busco oportunidades como Desenvolvedor Back End Júnior ou Desenvolvedor Front End React Júnior, onde posso aplicar minhas habilidades técnicas e contribuir para projetos desafiadores em um ambiente colaborativo e inovador.
 
 👀 Obrigado por Visitar!
