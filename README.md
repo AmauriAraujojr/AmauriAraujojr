@@ -1,20 +1,23 @@
-[[[# Hi there! 👋 I'm Amauri Araujo
+Claro, aqui está o README atualizado com as tabelas alinhadas e a tecnologia Sass adicionada:
 
-I'm a passionate Full Stack Developer always eager to tackle new challenges and grow professionally.
+```markdown
+# Olá! 👋 Eu sou Amauri Araujo
 
-💻 Full Stack Developer | 🚀🚀🚀 
+Sou um apaixonado Desenvolvedor Full Stack sempre ansioso para enfrentar novos desafios e crescer profissionalmente.
 
-<div align="center" style="display:flex; align-itens:center; justify-content:space-between;">
-  <div style="display: flex; justify-content: space-between;  flex-direction:column; align-itens: start;">
+💻 Desenvolvedor Full Stack | 🚀🚀🚀
+
+<div align="center" style="display:flex; align-items:center; justify-content:space-between;">
+  <div style="display: flex; justify-content: space-between;  flex-direction:column; align-items: start;">
     <img src="https://github-readme-stats.vercel.app/api?username=AmauriAraujojr&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats"/>
     <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com/?user=AmauriAraujojr&theme=bear&background=000&border=30A3DC&dates=FFF" alt="GitHub Streak"/>
     </a>
   </div>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AmauriAraujojr&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Langs"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AmauriAraujojr&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Langs"/>
 </div>
 
-## Technologies I Work With
+## Tecnologias que Trabalho
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" alt="HTML5"/>
@@ -23,6 +26,7 @@ I'm a passionate Full Stack Developer always eager to tackle new challenges and 
   <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" alt="Python"/>
   <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" alt="React"/>
+  <img src="https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass" alt="Sass"/>
   <img src="https://img.shields.io/badge/Styled_Components-000?style=for-the-badge&logo=styled-components" alt="Styled Components"/>
   <img src="https://img.shields.io/badge/Context_API-000?style=for-the-badge&logo=react" alt="Context API"/>
   <img src="https://img.shields.io/badge/Axios-000?style=for-the-badge&logo=axios" alt="Axios"/>
@@ -31,10 +35,9 @@ I'm a passionate Full Stack Developer always eager to tackle new challenges and 
   <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express" alt="Express.js"/>
   <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" alt="PostgreSQL"/>
-
 </div>
 
-## My Projects
+## Meus Projetos
 
 - **[Moto Link](#)** - Uma aplicação web que visa facilitar a comunicação entre empresas de entrega e motoboys, incentivando parcerias de longa data.
 - **[Kenzie Hub](#)** - Uma plataforma para alunos onde eles podem listar, deletar e atualizar as tecnologias que dominam.
@@ -42,13 +45,11 @@ I'm a passionate Full Stack Developer always eager to tackle new challenges and 
 - **[NuKenzie](#)** - Uma pequena aplicação de controle financeiro para cadastro de receitas e despesas.
 - **[CashFlow Master](#)** - Ferramenta poderosa para otimizar e controlar o fluxo de caixa de seu negócio.
 
-
-
 ## Agradecimentos
 
 - Um enorme agradecimento à [Kenzie Academy Brasil](https://kenzie.com.br/) pela oportunidade e pela excelente formação em desenvolvimento web.
 
-## Contact Me
+## Entre em Contato
 
 <div align="center">
   <a href="https://www.instagram.com/amaurijr35/">
@@ -65,9 +66,8 @@ I'm a passionate Full Stack Developer always eager to tackle new challenges and 
   </a>
 </div>
 
-## Career Transition
+## Transição de Carreira
 
-🌱 I'm currently transitioning my career and seeking opportunities as a Junior Back End Developer or Junior Front End React Developer, where I can apply my technical skills and contribute to challenging projects in a collaborative and innovative environment.
+🌱 Atualmente estou em transição de carreira e buscando oportunidades como Desenvolvedor Back End Júnior ou Desenvolvedor Front End React Júnior, onde posso aplicar minhas habilidades técnicas e contribuir para projetos desafiadores em um ambiente colaborativo e inovador.
 
-👀 Thank you for stopping by! If you liked what you saw, feel free to reach out to me or explore my projects. I'm always open to new opportunities and exciting collaborations. Let's build something amazing together! 😊🚀
-
+👀 Obrigado por passar por aqui! Se você gostou do que viu, sinta-se à vontade para entrar em contato comigo ou explorar meus projet
