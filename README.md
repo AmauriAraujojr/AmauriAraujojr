@@ -5,8 +5,8 @@ Sou um apaixonado Desenvolvedor Full Stack sempre ansioso para enfrentar novos d
 
 💻 Desenvolvedor Full Stack | 🚀🚀🚀
 
-<div align="center" style="display:flex; align-items:center; justify-content:space-between;">
-  <div style="display: flex; justify-content: space-between;  flex-direction:column; align-items: start;">
+<div align="center" style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="display: flex; flex-direction: column; align-items: flex-start;">
     <img src="https://github-readme-stats.vercel.app/api?username=AmauriAraujojr&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats"/>
     <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com/?user=AmauriAraujojr&theme=bear&background=000&border=30A3DC&dates=FFF" alt="GitHub Streak"/>
