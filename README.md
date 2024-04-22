@@ -1,6 +1,4 @@
-Claro, aqui está o README atualizado com as tabelas alinhadas e a tecnologia Sass adicionada:
 
-```markdown
 # Olá! 👋 Eu sou Amauri Araujo
 
 Sou um apaixonado Desenvolvedor Full Stack sempre ansioso para enfrentar novos desafios e crescer profissionalmente.
